@@ -1,0 +1,5 @@
+# Specify filepatterns you want git to ignore.
+/node-modules
+/react-course/node-modules
+/react-course/.git
+/react-course/.idea
