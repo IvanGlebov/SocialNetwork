@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/react-course/node_modules
+/react-course/.git
+/react-course/.idea
+/react-course/.gitignore
+# Editor-based HTTP Client requests
+/httpRequests/
