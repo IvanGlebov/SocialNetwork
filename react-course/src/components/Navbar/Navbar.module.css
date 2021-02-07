@@ -1,0 +1,77 @@
+.nav {
+    grid-area: n;
+    background-color: #8FBAF3;
+    border-radius: 30px;
+    height: 466px;
+
+}
+
+.link {
+    color: #FFFFFF;
+    transition: 0.5s;
+}
+
+
+.link a {
+    padding: 20px 50px 14px;
+    width: 165px;
+    color: #FFFFFF;
+    text-decoration: none;
+    display: inline-block;
+    transition: 0.5s;
+}
+
+.link a.active {
+    background-color: #0245A3;
+    border-radius: 30px;
+    color: #000000;
+    transition: 0.5s;
+}
+
+
+.link a:hover {
+    color: #06224A;
+    transition: 0.5s;
+}
+
+.profile {
+
+}
+
+.messages {
+
+}
+
+.news {
+
+}
+
+.music {
+
+}
+
+.settings {
+
+}
+
+.friends {
+
+}
+
+
+.recentFriends {
+    /*display: grid;*/
+    /*grid-template-columns: 1fr 1fr 1fr;*/
+}
+
+.recentFriends img {
+    /*display: inline-block;*/
+}
+
+.friend {
+    /*display: inline-block;*/
+}
+
+
+
+
